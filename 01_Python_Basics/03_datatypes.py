@@ -5,10 +5,10 @@
 #Examples of data types
 
 name = "sai"  #string  (Double quote)
-n = 'Deepthi'  #string (single quote)
-p = "1526" #string
+n = 'Deepthi'  #string (single quote) Note that strings can be represented with single quotes or double quotes, but you can't mix (e.g., "1.3')
+p = "1526" #string 
 a = 54     #int
-b = 6.34   #float
+b = 6.34   #float "numbers with decimals"
 c = True   #Boolean need to be T and F capital
 e = False  #Boolean
 d = None   #NoneType means "no value", "nothing" or "unknown" it's used to show the absence of data.
@@ -159,4 +159,3 @@ Number data types in Python:
 
 3) Complex Numbers Example: 1 + j, 2 + 4j, 1 - 1j """
 
-help("keywords")
