@@ -12,6 +12,15 @@ print("Hello World")
 
 # \" and \' - Print quotes inside strings -- for multi line comments
 
+"""In Python and other programming languages \ followed by a character is an escape sequence. Let us see the most common escape characters:
+
+\n: new line
+\t: Tab means(8 spaces)
+\\: Back slash
+\': Single quote (')
+\": Double quote (") """
+
+
 # print("Hi "Python"") #Invalid: Double quotes inside Double quotes
 print("Hi \"Python\"") # Use escape character (backslash)
 print('Hi "Python"') # Fix2: Mix single and double quotes
