@@ -201,26 +201,6 @@ number = "123A"
 print(number.isdigit())      # False
 
 
-# isdecimal()
-# Returns True if all characters are decimal digits.
-
-number = "12345"
-
-print(number.isdecimal())    # True
-
-#difference between isdeciaml() and isdigit()
-superscript_two = "2"
-
-print(superscript_two.isdecimal())   # False
-print(superscript_two.isdigit())     # True
-
-
-# isnumeric()
-# Checks whether all characters represent numeric values.
-
-number = "123"
-
-print(number.isnumeric())    # True
 
 
 # isalnum()
@@ -251,15 +231,6 @@ text = "PYTHON PROGRAMMING"
 
 print(text.isupper())        # True
 
-
-# isidentifier()
-# Checks whether a string can be used as a valid Python identifier.
-
-variable_one = "first_name"
-variable_two = "1name"
-
-print(variable_one.isidentifier())       # True
-print(variable_two.isidentifier())       # False
 
 
 # split()
