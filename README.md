@@ -76,6 +76,6 @@ The learning structure is inspired by [Data With Baraa](https://www.youtube.com/
 
 ## 👩‍💻 Author
 
-**Sai Deepthi**
+**Venkata Sai Deepthi Chinta**
 
 Python Learning | Data Engineering
