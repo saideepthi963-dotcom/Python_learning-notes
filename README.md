@@ -25,6 +25,8 @@ This repository documents my journey of learning Python fundamentals and buildin
 | `14_JSON` | Reading, writing, and processing JSON |
 | `15_CSV` | CSV reading and writing |
 | `16_Dates_and_Time` | Dates, formatting, timedelta |
+| `17_NumPy` | NumPy arrays, indexing, slicing, array operations, numerical functions |
+| `18_Pandas` | Series, DataFrames, reading files, filtering, cleaning, grouping, aggregation, merging, joining |
 
 ## 🎯 Learning Objectives
 
@@ -33,6 +35,10 @@ This repository documents my journey of learning Python fundamentals and buildin
 - Learn Python data structures and built-in functions.
 - Work with files and structured data.
 - Build a foundation for Python-based Data Engineering.
+- Perform numerical calculations using NumPy arrays.
+- Read, clean, filter, and transform data using Pandas.
+- Perform aggregations and joins on tabular data.
+- Build a foundation for PySpark and Databricks.
 
 ## 🛠️ Tools Used
 
